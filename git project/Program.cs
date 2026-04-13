@@ -1,4 +1,14 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, Jordan how are you keep modifications going");
-Console.WriteLine("Hello, Jordan how are you keep modifications going");
-Console.WriteLine("Hello, Jordan how are you keep modifications going");
+﻿void MyfirstMethod()
+{
+    // Do Something
+}
+
+void MySecondMethod()
+{
+    // Do Something
+}
+
+void MyThirdMethod()
+{
+    // Do Something
+}
